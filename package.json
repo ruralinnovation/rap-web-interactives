@@ -4,7 +4,7 @@
   "description": "Interactives for the Rural Aperture Project",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d lib",
+    "build": "webpack",
     "start": "webpack-dev-server"
   },
   "author": "Camden Blatchly",
