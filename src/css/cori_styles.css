@@ -1,0 +1,42 @@
+body {
+	font-family: Montserrat, sans-serif;
+
+	font-size: 12px;
+}
+
+.chart-title {
+	font-weight: normal;
+	font-size: 1.5em;
+
+	margin: 0px 0px 5px 0px;
+}
+
+.chart-subtitle {
+	font-weight: normal;
+	font-style: italic;
+	font-size: 1em;
+
+	margin: 0px 0px 5px 0px;
+}
+
+.caption {
+	font-size: .83em;
+}
+
+.tooltip {
+	font-family: Lato, sans-serif;
+	background-color: white;
+	border: 2px solid dimgray;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.tooltip p {
+	margin: 0px;
+	padding: 0px;
+}
+
+.tick text {
+	font-family: Lato;
+	font-size: 1em;
+}
