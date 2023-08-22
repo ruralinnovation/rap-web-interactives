@@ -1,15 +1,14 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
-const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
-  template: "./src/index.html",
-  filename: "index.html",
-  inject: "body"
-});
+
 module.exports = {
-  entry: "./src/index.js",
+  entry: {
+    tech_employment: "./src/tech_employment.js",
+    automation: "./src/automation.js"
+  },
   output: {
     path: path.resolve("docs"),
-    filename: "index_bundle.js"
+    filename: '[name].[contenthash].js',
   },
   module: {
     rules: [
@@ -32,6 +31,19 @@ module.exports = {
       }
     ]
   },
-  plugins: [HtmlWebpackPluginConfig],
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: './src/tech_employment.html',
+      inject: true,
+      chunks: ['tech_employment'],
+      filename: 'tech_employment.html'
+    }),
+    new HtmlWebpackPlugin({
+      template: './src/automation.html',
+      inject: true,
+      chunks: ['automation'],
+      filename: 'automation.html'
+    })
+  ],
   mode: 'development'
 };

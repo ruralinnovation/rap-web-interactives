@@ -1,0 +1,533 @@
+rurality,AREA,AREA_TITLE,emp_at_risk,emp_tot,pct_at_risk
+Nonrural,10180,"Abilene, TX",34772.86933,62630,0.5552110703
+Nonrural,10380,"Aguadilla-Isabela, PR",27591.79433,43690,0.6315356909
+Nonrural,10420,"Akron, OH",167134.6993,299160,0.5586799684
+Nonrural,10500,"Albany, GA",29501.72467,51280,0.5753066433
+Nonrural,10540,"Albany, OR",25126.25833,40080,0.626902653
+Nonrural,10580,"Albany-Schenectady-Troy, NY",217951.2937,410140,0.5314070651
+Nonrural,10740,"Albuquerque, NM",200483.7537,360790,0.5556799071
+Nonrural,10780,"Alexandria, LA",28879.82033,51240,0.5636186638
+Nonrural,10900,"Allentown-Bethlehem-Easton, PA-NJ",198951.5743,345400,0.5760033999
+Nonrural,11020,"Altoona, PA",29788.278,50890,0.5853463942
+Nonrural,11100,"Amarillo, TX",58850.59133,102690,0.5730897978
+Nonrural,11180,"Ames, IA",21439.439,38160,0.5618301625
+Nonrural,11260,"Anchorage, AK",82128.90333,155200,0.5291810782
+Nonrural,11460,"Ann Arbor, MI",94235.135,197930,0.4761033446
+Nonrural,11500,"Anniston-Oxford-Jacksonville, AL",23483.35933,37520,0.625889108
+Nonrural,11540,"Appleton, WI",66984.048,112200,0.5970057754
+Nonrural,11640,"Arecibo, PR",17669.73967,27120,0.6515390733
+Nonrural,11700,"Asheville, NC",107156.843,185310,0.5782572068
+Nonrural,12020,"Athens-Clarke County, GA",43232.692,75820,0.5702016882
+Nonrural,12060,"Atlanta-Sandy Springs-Roswell, GA",1429341.625,2617140,0.5461464138
+Nonrural,12100,"Atlantic City-Hammonton, NJ",67981.475,113420,0.5993781961
+Nonrural,12220,"Auburn-Opelika, AL",32235.24233,53690,0.6003956479
+Nonrural,12260,"Augusta-Richmond County, GA-SC",116769.0083,208990,0.5587301227
+Nonrural,12420,"Austin-Round Rock, TX",586041.8387,1125170,0.520847373
+Nonrural,12540,"Bakersfield, CA",183952.099,305610,0.6019178005
+Nonrural,12580,"Baltimore-Columbia-Towson, MD",614947.1687,1224580,0.5021698612
+Nonrural,12940,"Baton Rouge, LA",199173.1217,357680,0.5568472424
+Nonrural,12980,"Battle Creek, MI",25449.19133,43260,0.5882845893
+Nonrural,13020,"Bay City, MI",16728.343,27630,0.6054412957
+Nonrural,13140,"Beaumont-Port Arthur, TX",78276.77633,140070,0.5588404107
+Nonrural,13220,"Beckley, WV",20232.847,34570,0.5852718253
+Nonrural,13380,"Bellingham, WA",47505.07433,80850,0.5875704927
+Nonrural,13460,"Bend-Redmond, OR",45222.63867,78270,0.57777742
+Nonrural,13740,"Billings, MT",46293.279,80050,0.5783045472
+Nonrural,13780,"Binghamton, NY",47938.41733,85140,0.5630539973
+Nonrural,13820,"Birmingham-Hoover, AL",273599.736,478030,0.5723484635
+Nonrural,13900,"Bismarck, ND",35165.59567,62950,0.5586274133
+Nonrural,13980,"Blacksburg-Christiansburg-Radford, VA",35047.39,61610,0.5688587892
+Nonrural,14010,"Bloomington, IL",40780.862,71600,0.5695651117
+Nonrural,14020,"Bloomington, IN",35149.11667,59810,0.5876795965
+Nonrural,14100,"Bloomsburg-Berwick, PA",17649.89867,32690,0.5399173651
+Nonrural,14260,"Boise City, ID",192494.9783,339170,0.5675471838
+Nonrural,14500,"Boulder, CO",83566.516,177130,0.4717807034
+Nonrural,14540,"Bowling Green, KY",41608.34733,67940,0.6124278383
+Nonrural,14740,"Bremerton-Silverdale, WA",44312.95367,81170,0.5459277278
+Nonrural,15180,"Brownsville-Harlingen, TX",75281.23433,138590,0.5431938403
+Nonrural,15260,"Brunswick, GA",21202.017,35620,0.5952278776
+Nonrural,15380,"Buffalo-Cheektowaga-Niagara Falls, NY",276114.0023,498420,0.553978577
+Nonrural,15500,"Burlington, NC",34797.554,57060,0.6098414651
+Nonrural,15680,"California-Lexington Park, MD",17243.00333,40750,0.4231411861
+Nonrural,15940,"Canton-Massillon, OH",88701.74767,152160,0.5829504973
+Nonrural,15980,"Cape Coral-Fort Myers, FL",160456.228,269470,0.5954511745
+Nonrural,16020,"Cape Girardeau, MO-IL",21166.004,36900,0.5736044444
+Nonrural,16060,"Carbondale-Marion, IL",23815.155,42610,0.5589099977
+Nonrural,16180,"Carson City, NV",13305.124,23250,0.5722633978
+Nonrural,16220,"Casper, WY",19418.54367,31390,0.6186219709
+Nonrural,16300,"Cedar Rapids, IA",74537.485,130770,0.5699891795
+Nonrural,16540,"Chambersburg-Waynesboro, PA",32058.07633,52270,0.6133169377
+Nonrural,16580,"Champaign-Urbana, IL",49803.92067,91510,0.5442456635
+Nonrural,16620,"Charleston, WV",50358.029,91190,0.5522319224
+Nonrural,16700,"Charleston-North Charleston, SC",190435.0467,338950,0.5618381669
+Nonrural,16740,"Charlotte-Concord-Gastonia, NC-SC",685872.02,1229900,0.5576648671
+Nonrural,16820,"Charlottesville, VA",49365.07067,97190,0.5079233529
+Nonrural,16860,"Chattanooga, TN-GA",137649.7687,236430,0.5822009418
+Nonrural,16940,"Cheyenne, WY",23438.82767,40110,0.5843636915
+Nonrural,16980,"Chicago-Naperville-Elgin, IL-IN-WI",2320140.573,4277680,0.542382921
+Nonrural,17020,"Chico, CA",37909.708,66490,0.5701565348
+Nonrural,17140,"Cincinnati, OH-KY-IN",577825.5417,1030970,0.5604678523
+Nonrural,17300,"Clarksville, TN-KY",49065.98967,83030,0.5909429082
+Nonrural,17420,"Cleveland, TN",23821.085,38310,0.6217980945
+Nonrural,17460,"Cleveland-Elyria, OH",525131.379,957750,0.548296924
+Nonrural,17660,"Coeur d'Alene, ID",35350.41433,59070,0.5984495401
+Nonrural,17780,"College Station-Bryan, TX",58336.08367,106500,0.5477566541
+Nonrural,17820,"Colorado Springs, CO",152657.7023,284810,0.5359983931
+Nonrural,17860,"Columbia, MO",43954.602,78000,0.5635205385
+Nonrural,17900,"Columbia, SC",207160.3967,359650,0.5760055517
+Nonrural,17980,"Columbus, GA-AL",57881.66467,103940,0.5568757424
+Nonrural,18020,"Columbus, IN",24655.93533,40260,0.6124176685
+Nonrural,18140,"Columbus, OH",560714.0713,1026460,0.5462600309
+Nonrural,18580,"Corpus Christi, TX",96133.915,170740,0.5630427258
+Nonrural,18700,"Corvallis, OR",14931.27633,28150,0.5304183422
+Nonrural,18880,"Crestview-Fort Walton Beach-Destin, FL",63613.31533,109920,0.5787237567
+Nonrural,19060,"Cumberland, MD-WV",16139.04833,28670,0.5629246018
+Nonrural,19100,"Dallas-Fort Worth-Arlington, TX",2014308.072,3698690,0.5446004051
+Nonrural,19140,"Dalton, GA",37565.33767,58010,0.6475665862
+Nonrural,19180,"Danville, IL",12657.49467,20850,0.6070740847
+Nonrural,19300,"Daphne-Fairhope-Foley, AL",45873.21167,71970,0.6373935204
+Nonrural,19340,"Davenport-Moline-Rock Island, IA-IL",94799.382,166720,0.5686143354
+Nonrural,19380,"Dayton, OH",187184.1407,346400,0.5403699211
+Nonrural,19460,"Decatur, AL",29687.555,49740,0.5968547447
+Nonrural,19500,"Decatur, IL",19827.51933,34240,0.5790747469
+Nonrural,19660,"Deltona-Daytona Beach-Ormond Beach, FL",116311.7047,195490,0.5949752144
+Nonrural,19740,"Denver-Aurora-Lakewood, CO",760146.1707,1468150,0.5177578385
+Nonrural,19780,"Des Moines-West Des Moines, IA",195577.259,356370,0.5488039369
+Nonrural,19820,"Detroit-Warren-Dearborn, MI",1003966.028,1811400,0.5542486627
+Nonrural,20020,"Dothan, AL",31221.20033,51790,0.602842254
+Nonrural,20100,"Dover, DE",30848.608,55240,0.5584469225
+Nonrural,20220,"Dubuque, IA",29627.53067,50990,0.5810459044
+Nonrural,20260,"Duluth, MN-WI",61840.68933,113050,0.5470206929
+Nonrural,20500,"Durham-Chapel Hill, NC",134980.0563,277870,0.4857669282
+Nonrural,20700,"East Stroudsburg, PA",29068.62267,47750,0.6087669668
+Nonrural,20740,"Eau Claire, WI",44375.152,75020,0.5915109571
+Nonrural,20940,"El Centro, CA",32719.939,55050,0.5943676476
+Nonrural,21060,"Elizabethtown-Fort Knox, KY",27096.789,45880,0.5906013296
+Nonrural,21140,"Elkhart-Goshen, IN",96037.64867,135910,0.7066268021
+Nonrural,21300,"Elmira, NY",16440.27933,27240,0.6035344836
+Nonrural,21340,"El Paso, TX",170714.958,300820,0.5674986969
+Nonrural,21420,"Enid, OK",10280.13733,17470,0.5884451822
+Nonrural,21500,"Erie, PA",63145.836,108510,0.5819356373
+Nonrural,21660,"Eugene, OR",81630.94267,140290,0.5818728539
+Nonrural,21780,"Evansville, IN-KY",84134.60467,141820,0.593249222
+Nonrural,21820,"Fairbanks, AK",15265.76633,27710,0.5509118128
+Nonrural,22020,"Fargo, ND-MN",75033.986,131270,0.5716004114
+Nonrural,22140,"Farmington, NM",22916.215,38180,0.600215165
+Nonrural,22180,"Fayetteville, NC",63769.987,116390,0.5478991924
+Nonrural,22220,"Fayetteville-Springdale-Rogers, AR-MO",137537.3637,239120,0.5751813469
+Nonrural,22380,"Flagstaff, AZ",31345.127,51200,0.6122095117
+Nonrural,22420,"Flint, MI",72465.166,120940,0.5991827849
+Nonrural,22500,"Florence, SC",46194.71567,79390,0.58187071
+Nonrural,22520,"Florence-Muscle Shoals, AL",27761.47467,46020,0.6032480371
+Nonrural,22540,"Fond du Lac, WI",22296.989,37010,0.6024584977
+Nonrural,22660,"Fort Collins, CO",84535.66433,156590,0.5398535305
+Nonrural,22900,"Fort Smith, AR-OK",60155.99333,99020,0.6075135663
+Nonrural,23060,"Fort Wayne, IN",124340,207920,0.5980184686
+Nonrural,23420,"Fresno, CA",218200.909,376040,0.5802598367
+Nonrural,23460,"Gadsden, AL",15541.46233,26100,0.5954583269
+Nonrural,23540,"Gainesville, FL",62653.00467,117120,0.5349471027
+Nonrural,23580,"Gainesville, GA",51944.194,85100,0.6103900588
+Nonrural,23900,"Gettysburg, PA",16506.04767,26880,0.6140642733
+Nonrural,24020,"Glens Falls, NY",25642.35267,43320,0.5919287319
+Nonrural,24140,"Goldsboro, NC",20122.70067,33580,0.5992465952
+Nonrural,24220,"Grand Forks, ND-MN",24683.836,42300,0.5835422222
+Nonrural,24260,"Grand Island, NE",21059.63633,34360,0.6129114183
+Nonrural,24300,"Grand Junction, CO",33052.596,56360,0.5864548616
+Nonrural,24340,"Grand Rapids-Wyoming, MI",312030.761,535220,0.5829953309
+Nonrural,24420,"Grants Pass, OR",14359.55133,23230,0.6181468503
+Nonrural,24500,"Great Falls, MT",17687.23567,29860,0.5923387698
+Nonrural,24540,"Greeley, CO",56558.92867,95590,0.5916824842
+Nonrural,24580,"Green Bay, WI",94330.018,159960,0.58971004
+Nonrural,24660,"Greensboro-High Point, NC",199358.6927,338640,0.5887039117
+Nonrural,24780,"Greenville, NC",37635.00833,68890,0.5463058257
+Nonrural,24860,"Greenville-Anderson-Mauldin, SC",231638.435,397350,0.5829581855
+Nonrural,25020,"Guayama, PR",4324.73,7070,0.6117015559
+Nonrural,25060,"Gulfport-Biloxi-Pascagoula, MS",80918.21933,139510,0.5800173416
+Nonrural,25180,"Hagerstown-Martinsburg, MD-WV",52663.03867,91990,0.5724865601
+Nonrural,25220,"Hammond, LA",22648.44867,37860,0.5982157598
+Nonrural,25260,"Hanford-Corcoran, CA",20919.57733,33550,0.6235343467
+Nonrural,25420,"Harrisburg-Carlisle, PA",169463.397,304830,0.5559275563
+Nonrural,25500,"Harrisonburg, VA",33346.841,54450,0.6124305051
+Nonrural,25620,"Hattiesburg, MS",32063.31267,54190,0.5916832011
+Nonrural,25860,"Hickory-Lenoir-Morganton, NC",88647.94167,144850,0.6119982165
+Nonrural,25940,"Hilton Head Island-Bluffton-Beaufort, SC",44696.07933,71770,0.6227682783
+Nonrural,25980,"Hinesville, GA",7252.747333,12720,0.5701845388
+Nonrural,26140,"Homosassa Springs, FL",16983.508,27630,0.6146763663
+Nonrural,26300,"Hot Springs, AR",19174.58833,32200,0.5954841097
+Nonrural,26380,"Houma-Thibodaux, LA",41425.19067,69550,0.5956174071
+Nonrural,26420,"Houston-The Woodlands-Sugar Land, TX",1610454.455,2954820,0.5450262471
+Nonrural,26580,"Huntington-Ashland, WV-KY-OH",65747.97533,118610,0.5543206756
+Nonrural,26620,"Huntsville, AL",113289.4007,226330,0.5005496429
+Nonrural,26820,"Idaho Falls, ID",37866.96133,67750,0.5589219385
+Nonrural,26900,"Indianapolis-Carmel-Anderson, IN",587452.91,1021190,0.5752630852
+Nonrural,26980,"Iowa City, IA",42659.40667,79790,0.5346460292
+Nonrural,27060,"Ithaca, NY",18660.69833,33630,0.5548824958
+Nonrural,27100,"Jackson, MI",27958.15367,46100,0.6064675416
+Nonrural,27140,"Jackson, MS",131675.7513,237120,0.5553127165
+Nonrural,27180,"Jackson, TN",35292.21267,60470,0.5836317623
+Nonrural,27260,"Jacksonville, FL",393734.9807,694580,0.5668677196
+Nonrural,27340,"Jacksonville, NC",25672.61033,43930,0.584398141
+Nonrural,27500,"Janesville-Beloit, WI",35714.93167,59800,0.59723966
+Nonrural,27620,"Jefferson City, MO",35928.90067,63560,0.5652753409
+Nonrural,27740,"Johnson City, TN",40220.927,71220,0.5647420247
+Nonrural,27780,"Johnstown, PA",23471.51167,41700,0.5628659872
+Nonrural,27860,"Jonesboro, AR",30496.37867,51940,0.587146297
+Nonrural,27900,"Joplin, MO",43921.176,72480,0.6059764901
+Nonrural,27980,"Kahului-Wailuku-Lahaina, HI",40878.83633,65270,0.6263036055
+Nonrural,28020,"Kalamazoo-Portage, MI",73319.24667,129850,0.5646457194
+Nonrural,28100,"Kankakee, IL",20169.37833,35890,0.5619776632
+Nonrural,28140,"Kansas City, MO-KS",571614.534,1019370,0.5607527532
+Nonrural,28420,"Kennewick-Richland, WA",64370.04333,112720,0.5710614206
+Nonrural,28660,"Killeen-Temple, TX",72041.53433,134320,0.5363425725
+Nonrural,28700,"Kingsport-Bristol-Bristol, TN-VA",58859.27067,103540,0.5684689073
+Nonrural,28740,"Kingston, NY",28446.175,48790,0.5830328961
+Nonrural,28940,"Knoxville, TN",217387.478,382490,0.5683481346
+Nonrural,29020,"Kokomo, IN",14764.90033,24410,0.6048709682
+Nonrural,29100,"La Crosse-Onalaska, WI-MN",37281.11133,64310,0.5797093972
+Nonrural,29180,"Lafayette, LA",103292.592,175130,0.5898052418
+Nonrural,29200,"Lafayette-West Lafayette, IN",49749.41667,82960,0.5996795644
+Nonrural,29340,"Lake Charles, LA",47478.35133,80960,0.5864420866
+Nonrural,29420,"Lake Havasu City-Kingman, AZ",30492.87267,49050,0.6216691675
+Nonrural,29460,"Lakeland-Winter Haven, FL",141908.2333,237470,0.5975838352
+Nonrural,29540,"Lancaster, PA",138036.8123,231500,0.5962713276
+Nonrural,29620,"Lansing-East Lansing, MI",105756.268,189360,0.558493177
+Nonrural,29700,"Laredo, TX",54443.423,91250,0.5966402521
+Nonrural,29740,"Las Cruces, NM",37148.90433,65190,0.5698558726
+Nonrural,29820,"Las Vegas-Henderson-Paradise, NV",592637.6717,974310,0.6082639731
+Nonrural,29940,"Lawrence, KS",23782.78233,40580,0.5860715213
+Nonrural,30020,"Lawton, OK",19568.338,33570,0.5829114686
+Nonrural,30140,"Lebanon, PA",26234.29,43000,0.6100997674
+Nonrural,30300,"Lewiston, ID-WA",13386.56733,22440,0.5965493464
+Nonrural,30460,"Lexington-Fayette, KY",140990.0087,249920,0.5641405596
+Nonrural,30620,"Lima, OH",24589.663,42320,0.5810411862
+Nonrural,30700,"Lincoln, NE",89241.388,163300,0.5464873729
+Nonrural,30780,"Little Rock-North Little Rock-Conway, AR",176225.7037,322960,0.5456579876
+Nonrural,30860,"Logan, UT-ID",33287.54167,57270,0.581238723
+Nonrural,30980,"Longview, TX",49637.493,85520,0.580419703
+Nonrural,31020,"Longview, WA",21363.393,35320,0.6048525764
+Nonrural,31080,"Los Angeles-Long Beach-Anaheim, CA",3170708.915,5801740,0.5465099978
+Nonrural,31140,"Louisville/Jefferson County, KY-IN",362965.3773,615800,0.5894208791
+Nonrural,31180,"Lubbock, TX",76246.56667,136700,0.5577656669
+Nonrural,31340,"Lynchburg, VA",50306.23267,87740,0.5733557404
+Nonrural,31420,"Macon, GA",46204.162,83650,0.5523510102
+Nonrural,31460,"Madera, CA",26129.589,40850,0.6396472215
+Nonrural,31540,"Madison, WI",195970.1837,372430,0.5261933348
+Nonrural,31740,"Manhattan, KS",18593.26433,31940,0.5821310061
+Nonrural,31860,"Mankato-North Mankato, MN",26223.10533,45990,0.5701914619
+Nonrural,31900,"Mansfield, OH",24811.73733,40990,0.6053119623
+Nonrural,32420,"Mayaguez, PR",15346.365,24490,0.6266380155
+Nonrural,32580,"McAllen-Edinburg-Mission, TX",144024.1027,263920,0.5457112105
+Nonrural,32780,"Medford, OR",45708.02933,77790,0.5875823285
+Nonrural,32820,"Memphis, TN-MS-AR",348336.8307,597790,0.5827076911
+Nonrural,32900,"Merced, CA",40405.249,67490,0.5986849756
+Nonrural,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",1419043.215,2516020,0.5640031539
+Nonrural,33140,"Michigan City-La Porte, IN",21291.513,33620,0.6332990184
+Nonrural,33220,"Midland, MI",16252.015,29880,0.5439094712
+Nonrural,33260,"Midland, TX",57025.953,96540,0.5906976694
+Nonrural,33340,"Milwaukee-Waukesha-West Allis, WI",434451.681,773050,0.5619968708
+Nonrural,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",975300.5037,1830690,0.5327502219
+Nonrural,33540,"Missoula, MT",31493.86167,54640,0.5763883907
+Nonrural,33660,"Mobile, AL",90529.64267,158680,0.5705170322
+Nonrural,33700,"Modesto, CA",105165.6307,177480,0.5925491924
+Nonrural,33740,"Monroe, LA",36101.115,62280,0.579658237
+Nonrural,33780,"Monroe, MI",19611.83133,32210,0.6088739936
+Nonrural,33860,"Montgomery, AL",86853.39567,148040,0.5866887035
+Nonrural,34060,"Morgantown, WV",28725.393,55370,0.518789832
+Nonrural,34100,"Morristown, TN",23782.458,37930,0.6270091748
+Nonrural,34580,"Mount Vernon-Anacortes, WA",25553.57033,43510,0.5873033862
+Nonrural,34620,"Muncie, IN",21806.71933,36780,0.5928961211
+Nonrural,34740,"Muskegon, MI",32789.29233,53400,0.6140316916
+Nonrural,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",103087.4033,159390,0.6467620512
+Nonrural,34900,"Napa, CA",40754.05367,66370,0.6140432977
+Nonrural,34940,"Naples-Immokalee-Marco Island, FL",89419.994,146290,0.6112515825
+Nonrural,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",558378.1653,995580,0.560857154
+Nonrural,35100,"New Bern, NC",21661.07533,38360,0.5646787105
+Nonrural,35380,"New Orleans-Metairie, LA",271414.496,485450,0.5590987661
+Nonrural,35620,"New York-Newark-Jersey City, NY-NJ-PA",4612248.305,8936030,0.5161406469
+Nonrural,35660,"Niles-Benton Harbor, MI",31749.47033,51410,0.6175738248
+Nonrural,35840,"North Port-Sarasota-Bradenton, FL",174948.419,295370,0.5923026001
+Nonrural,36100,"Ocala, FL",61622.801,102030,0.6039674704
+Nonrural,36140,"Ocean City, NJ",22527.79333,34940,0.644756535
+Nonrural,36220,"Odessa, TX",39563.50067,65320,0.6056873954
+Nonrural,36260,"Ogden-Clearfield, UT",148171.1177,264110,0.5610204751
+Nonrural,36420,"Oklahoma City, OK",340910.4077,606520,0.562076119
+Nonrural,36500,"Olympia-Tumwater, WA",57505.53933,112020,0.5133506457
+Nonrural,36540,"Omaha-Council Bluffs, NE-IA",249721.346,456330,0.5472385028
+Nonrural,36740,"Orlando-Kissimmee-Sanford, FL",731307.6513,1251410,0.5843869326
+Nonrural,36780,"Oshkosh-Neenah, WI",48782.70033,82290,0.5928144408
+Nonrural,36980,"Owensboro, KY",26117.68867,43900,0.5949359605
+Nonrural,37100,"Oxnard-Thousand Oaks-Ventura, CA",167844.2407,294490,0.569948863
+Nonrural,37340,"Palm Bay-Melbourne-Titusville, FL",118370.075,217640,0.5438801461
+Nonrural,37460,"Panama City, FL",43364.466,74030,0.5857688234
+Nonrural,37620,"Parkersburg-Vienna, WV",17466.563,29360,0.5949101839
+Nonrural,37860,"Pensacola-Ferry Pass-Brent, FL",96349.94933,165980,0.5804913202
+Nonrural,37900,"Peoria, IL",82885.39,151530,0.546989969
+Nonrural,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1411523.887,2666530,0.5293485867
+Nonrural,38060,"Phoenix-Mesa-Scottsdale, AZ",1207334.32,2150040,0.5615403991
+Nonrural,38220,"Pine Bluff, AR",12833.07433,21940,0.5849167882
+Nonrural,38300,"Pittsburgh, PA",556936.6973,1017170,0.5475355126
+Nonrural,38540,"Pocatello, ID",17230.737,29120,0.5917148695
+Nonrural,38660,"Ponce, PR",36156.494,57630,0.627390144
+Nonrural,38900,"Portland-Vancouver-Hillsboro, OR-WA",609724.5337,1127040,0.5409963565
+Nonrural,38940,"Port St. Lucie, FL",86202.05233,145980,0.5905059072
+Nonrural,39140,"Prescott, AZ",36285.15567,59530,0.6095272244
+Nonrural,39340,"Provo-Orem, UT",145361.6057,270910,0.5365678848
+Nonrural,39380,"Pueblo, CO",30876.816,52830,0.5844561045
+Nonrural,39460,"Punta Gorda, FL",26898.30467,43830,0.613696205
+Nonrural,39540,"Racine, WI",41484.27133,67800,0.611862409
+Nonrural,39580,"Raleigh, NC",342832.75,644690,0.5317792272
+Nonrural,39660,"Rapid City, SD",38955.27667,64600,0.6030228586
+Nonrural,39740,"Reading, PA",91389.57633,155530,0.5876009537
+Nonrural,39820,"Redding, CA",34078.86033,59330,0.574395084
+Nonrural,39900,"Reno, NV",140566.2103,234550,0.5993016855
+Nonrural,40060,"Richmond, VA",319581.926,602690,0.5302592145
+Nonrural,40140,"Riverside-San Bernardino-Ontario, CA",950705.852,1571100,0.6051211584
+Nonrural,40220,"Roanoke, VA",77457.17867,137720,0.5624250557
+Nonrural,40340,"Rochester, MN",52131.589,104800,0.4974388263
+Nonrural,40380,"Rochester, NY",251933.5623,462970,0.5441682233
+Nonrural,40420,"Rockford, IL",75918.50433,129060,0.5882419366
+Nonrural,40580,"Rocky Mount, NC",28266.34767,48040,0.5883919165
+Nonrural,40660,"Rome, GA",18642.942,32040,0.5818646067
+Nonrural,40900,"Sacramento--Roseville--Arden-Arcade, CA",531546.2067,979620,0.5426044861
+Nonrural,40980,"Saginaw, MI",41721.11833,70640,0.5906160579
+Nonrural,41060,"St. Cloud, MN",53505.96433,90340,0.5922732381
+Nonrural,41100,"St. George, UT",43210.31933,72420,0.5966627911
+Nonrural,41140,"St. Joseph, MO-KS",25094.68333,42540,0.5899079298
+Nonrural,41180,"St. Louis, MO-IL",707357.8997,1274020,0.5552172648
+Nonrural,41420,"Salem, OR",90543.66233,159840,0.5664643539
+Nonrural,41500,"Salinas, CA",106767.6883,170540,0.6260565752
+Nonrural,41540,"Salisbury, MD-DE",90790.725,154010,0.5895118823
+Nonrural,41620,"Salt Lake City, UT",406291.9623,748610,0.5427284732
+Nonrural,41660,"San Angelo, TX",23401.70833,41210,0.5678647982
+Nonrural,41700,"San Antonio-New Braunfels, TX",558420.5643,1012420,0.5515700641
+Nonrural,41740,"San Diego-Carlsbad, CA",752547.217,1414600,0.5319858737
+Nonrural,41860,"San Francisco-Oakland-Hayward, CA",1110487.553,2274550,0.4882229686
+Nonrural,41900,"San German, PR",10314.69,15670,0.6582444161
+Nonrural,41940,"San Jose-Sunnyvale-Santa Clara, CA",489254.736,1071050,0.456799156
+Nonrural,41980,"San Juan-Carolina-Caguas, PR",381920.9237,646440,0.5908064533
+Nonrural,42020,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",61831.522,106380,0.5812325813
+Nonrural,42100,"Santa Cruz-Watsonville, CA",48144.01567,85580,0.5625615292
+Nonrural,42140,"Santa Fe, NM",31207.15633,54030,0.5775894195
+Nonrural,42200,"Santa Maria-Santa Barbara, CA",109282.329,187740,0.5820940077
+Nonrural,42220,"Santa Rosa, CA",109131.3403,188450,0.5790997099
+Nonrural,42340,"Savannah, GA",99575.805,169510,0.5874332193
+Nonrural,42540,"Scranton--Wilkes-Barre--Hazleton, PA",138833.9097,235710,0.5890030532
+Nonrural,42660,"Seattle-Tacoma-Bellevue, WA",999718.0413,1952130,0.5121165298
+Nonrural,42680,"Sebastian-Vero Beach, FL",28791.34967,47650,0.6042255964
+Nonrural,42700,"Sebring, FL",12578.66533,21040,0.5978453105
+Nonrural,43100,"Sheboygan, WI",31926.97267,51720,0.6173041892
+Nonrural,43300,"Sherman-Denison, TX",23098.68833,40900,0.5647601059
+Nonrural,43340,"Shreveport-Bossier City, LA",88290.205,154840,0.5702028223
+Nonrural,43420,"Sierra Vista-Douglas, AZ",15478.32467,28180,0.5492663118
+Nonrural,43580,"Sioux City, IA-NE-SD",49361.86133,80650,0.6120503575
+Nonrural,43620,"Sioux Falls, SD",90538.41967,153570,0.5895579844
+Nonrural,43780,"South Bend-Mishawaka, IN-MI",68620.40333,118010,0.5814795639
+Nonrural,43900,"Spartanburg, SC",91999.92333,147590,0.6233479459
+Nonrural,44060,"Spokane-Spokane Valley, WA",134778.3417,236080,0.5709011423
+Nonrural,44100,"Springfield, IL",49233.053,93100,0.528819044
+Nonrural,44180,"Springfield, MO",116958.3757,202200,0.5784291576
+Nonrural,44220,"Springfield, OH",24552.72633,40220,0.6104606249
+Nonrural,44300,"State College, PA",29138.79867,52080,0.5595007424
+Nonrural,44420,"Staunton-Waynesboro, VA",24822.339,42080,0.5898844819
+Nonrural,44700,"Stockton-Lodi, CA",145207.5353,243200,0.5970704578
+Nonrural,44940,"Sumter, SC",17829.87733,29310,0.6083206187
+Nonrural,45060,"Syracuse, NY",149682.4293,273930,0.5464258363
+Nonrural,45220,"Tallahassee, FL",82411.223,158760,0.5190931154
+Nonrural,45300,"Tampa-St. Petersburg-Clearwater, FL",734300.3367,1314540,0.5585987012
+Nonrural,45460,"Terre Haute, IN",34105.957,56900,0.5994017047
+Nonrural,45500,"Texarkana, TX-AR",28408.43933,49690,0.5717134098
+Nonrural,45540,"The Villages, FL",18024.55433,29690,0.6070917593
+Nonrural,45780,"Toledo, OH",157201.8233,271570,0.5788629942
+Nonrural,45820,"Topeka, KS",55371.89433,101510,0.5454821627
+Nonrural,45940,"Trenton, NJ",105518.3687,223690,0.4717169684
+Nonrural,46060,"Tucson, AZ",195452.1697,357750,0.5463373017
+Nonrural,46140,"Tulsa, OK",236800.0987,411970,0.5747993754
+Nonrural,46220,"Tuscaloosa, AL",54357.038,90530,0.6004312162
+Nonrural,46300,"Twin Falls, ID",25537.619,40570,0.6294705201
+Nonrural,46340,"Tyler, TX",54978.639,96980,0.5669069808
+Nonrural,46520,"Urban Honolulu, HI",214705.3687,392870,0.546504871
+Nonrural,46540,"Utica-Rome, NY",60415.47467,105790,0.5710887103
+Nonrural,46660,"Valdosta, GA",27349.35467,45800,0.5971474818
+Nonrural,46700,"Vallejo-Fairfield, CA",71194.83633,126710,0.5618722779
+Nonrural,47020,"Victoria, TX",18814.69,32840,0.5729199147
+Nonrural,47220,"Vineland-Bridgeton, NJ",30158.04333,53150,0.5674137974
+Nonrural,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",381239.4963,702970,0.5423268366
+Nonrural,47300,"Visalia-Porterville, CA",93837.68533,151680,0.6186556259
+Nonrural,47380,"Waco, TX",62836.42533,110160,0.5704105422
+Nonrural,47460,"Walla Walla, WA",11608.83233,19100,0.6077922688
+Nonrural,47580,"Warner Robins, GA",34274.694,63840,0.5368843045
+Nonrural,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1335718.862,2921460,0.4572093618
+Nonrural,47940,"Waterloo-Cedar Falls, IA",43728.672,77960,0.560911647
+Nonrural,48060,"Watertown-Fort Drum, NY",19032.97533,33080,0.5753620113
+Nonrural,48140,"Wausau, WI",38156.50367,62970,0.6059473347
+Nonrural,48260,"Weirton-Steubenville, WV-OH",17079.242,29870,0.5717858052
+Nonrural,48300,"Wenatchee, WA",24703.48133,41990,0.5883182027
+Nonrural,48540,"Wheeling, WV-OH",29933.762,51320,0.5832767342
+Nonrural,48620,"Wichita, KS",161845.1717,281640,0.5746526476
+Nonrural,48660,"Wichita Falls, TX",27652.69133,49260,0.561361984
+Nonrural,48700,"Williamsport, PA",24491.29133,42280,0.5792642226
+Nonrural,48900,"Wilmington, NC",71159.70533,125940,0.5650286274
+Nonrural,49020,"Winchester, VA-WV",32442.91833,54190,0.5986882881
+Nonrural,49180,"Winston-Salem, NC",144659.9177,254850,0.5676276934
+Nonrural,49420,"Yakima, WA",52559.933,88730,0.5923580863
+Nonrural,49620,"York-Hanover, PA",100847.2297,168730,0.5976840495
+Nonrural,49660,"Youngstown-Warren-Boardman, OH-PA",112115.8897,190120,0.5897111807
+Nonrural,49700,"Yuba City, CA",24330.136,42340,0.574637128
+Nonrural,49740,"Yuma, AZ",36355.03067,60170,0.6042052629
+Nonrural,70750,"Bangor, ME",32276.20433,57070,0.565554658
+Nonrural,70900,"Barnstable Town, MA",52689.66233,93130,0.5657646551
+Nonrural,71650,"Boston-Cambridge-Nashua, MA-NH",1217434.941,2574670,0.4728508667
+Nonrural,71950,"Bridgeport-Stamford-Norwalk, CT",186458.004,373730,0.4989109892
+Nonrural,72400,"Burlington-South Burlington, VT",53370.53733,104830,0.5091151134
+Nonrural,72850,"Danbury, CT",36238.37167,66770,0.5427343368
+Nonrural,73050,"Dover-Durham, NH-ME",24272.882,44130,0.5500313166
+Nonrural,73450,"Hartford-West Hartford-East Hartford, CT",269852.2743,534060,0.5052845642
+Nonrural,74500,"Leominster-Gardner, MA",25129.527,45010,0.5583098645
+Nonrural,74650,"Lewiston-Auburn, ME",23750.38067,41320,0.5747914005
+Nonrural,74950,"Manchester, NH",51960.303,97560,0.5325984317
+Nonrural,75550,"New Bedford, MA",30997.86533,56600,0.5476654653
+Nonrural,75700,"New Haven, CT",137031.377,263360,0.5203196271
+Nonrural,76450,"Norwich-New London-Westerly, CT-RI",56712.30267,104260,0.5439507257
+Nonrural,76600,"Pittsfield, MA",17050.12833,32050,0.5319852834
+Nonrural,76750,"Portland-South Portland, ME",105753.3063,192850,0.5483707873
+Nonrural,76900,"Portsmouth, NH-ME",45373.48033,83130,0.5458135491
+Nonrural,77200,"Providence-Warwick, RI-MA",295546.2683,538870,0.5484555984
+Nonrural,78100,"Springfield, MA-CT",160926.0743,306650,0.5247874591
+Nonrural,78700,"Waterbury, CT",31139.73867,59030,0.5275239483
+Nonrural,79600,"Worcester, MA-CT",140401.0493,271310,0.5174930866
+Rural,100001,Northwest Alabama nonmetropolitan area,40010.92367,61390,0.6517498561
+Rural,100002,Northeast Alabama nonmetropolitan area,89055.201,138940,0.6409615733
+Rural,100003,Southwest Alabama nonmetropolitan area,34743.55133,57800,0.601099504
+Rural,100004,Southeast Alabama nonmetropolitan area,44697.458,73790,0.6057386909
+Rural,200006,Alaska nonmetropolitan area,50245.628,92320,0.5442550693
+Rural,400001,Arizona nonmetropolitan area,47282.16033,83220,0.5681586197
+Rural,500001,North Arkansas nonmetropolitan area,65717.02933,109870,0.5981344255
+Rural,500002,East Arkansas nonmetropolitan area,33476.417,56600,0.5914561307
+Rural,500003,West Arkansas nonmetropolitan area,46335.80233,77010,0.6016855257
+Rural,500004,South Arkansas nonmetropolitan area,50212.93267,83740,0.5996290025
+Rural,600003,North Coast Region of California nonmetropolitan area,54584.59533,95030,0.5743933004
+Rural,600006,Eastern Sierra-Mother Lode Region of California nonmetropolitan area,32255.05033,54600,0.5907518376
+Rural,600007,North Valley-Northern Mountains Region of California nonmetropolitan area,51704.04333,88880,0.5817286604
+Rural,800001,Eastern and Southern Colorado nonmetropolitan area,34070.825,59320,0.5743564565
+Rural,800002,Southwest Colorado nonmetropolitan area,54804.59,93000,0.5892966667
+Rural,800003,Northwest Colorado nonmetropolitan area,67432.74433,113360,0.5948548371
+Rural,900001,Connecticut nonmetropolitan area,15316.614,28900,0.5299866436
+Rural,1200003,South Florida nonmetropolitan area,45287.32133,72730,0.6226773179
+Rural,1200006,North Florida nonmetropolitan area,62100.47967,107400,0.5782167567
+Rural,1300001,North Georgia nonmetropolitan area,108963.725,173110,0.6294478944
+Rural,1300002,Middle Georgia nonmetropolitan area,71324.22567,118740,0.6006756415
+Rural,1300003,East Georgia nonmetropolitan area,44650.22667,75970,0.5877349831
+Rural,1300004,South Georgia nonmetropolitan area,107304.555,179210,0.5987643268
+Rural,1500001,Hawaii / Kauai nonmetropolitan area,54945.54367,89840,0.6115933178
+Rural,1600006,Northwestern Idaho nonmetropolitan area,38440.02133,65550,0.5864229036
+Rural,1600007,Southeast-Central Idaho nonmetropolitan area,48358.91967,81680,0.592053375
+Rural,1700001,Northwest Illinois nonmetropolitan area,72390.86467,120610,0.6002061576
+Rural,1700002,West Central Illinois nonmetropolitan area,89850.638,153330,0.5859951608
+Rural,1700003,East Central Illinois nonmetropolitan area,65130.00833,107140,0.6078962883
+Rural,1700004,South Illinois nonmetropolitan area,44448.288,77480,0.5736743418
+Rural,1800001,Northern Indiana nonmetropolitan area,131104.0317,201790,0.6497052959
+Rural,1800002,Central Indiana nonmetropolitan area,91410.87467,146670,0.6232417991
+Rural,1800003,Southern Indiana nonmetropolitan area,110812.9907,175910,0.6299413943
+Rural,1900001,Northeast Iowa nonmetropolitan area,54252.91067,90790,0.5975648273
+Rural,1900002,Northwest Iowa nonmetropolitan area,76487.617,126820,0.6031195158
+Rural,1900003,Southwest Iowa nonmetropolitan area,44454.63533,74910,0.5934405998
+Rural,1900004,Southeast Iowa nonmetropolitan area,121243.5717,202130,0.5998296723
+Rural,2000006,Kansas nonmetropolitan area,219098.2773,371060,0.5904659013
+Rural,2100001,West Kentucky nonmetropolitan area,82714.38433,139200,0.5942125311
+Rural,2100002,South Central Kentucky nonmetropolitan area,94307.48767,157200,0.599920405
+Rural,2100003,Central Kentucky nonmetropolitan area,98220.73767,169550,0.5793024929
+Rural,2100004,East Kentucky nonmetropolitan area,48285.93867,91080,0.5301486459
+Rural,2200002,Central Louisiana nonmetropolitan area,37714.93967,65990,0.5715250745
+Rural,2200003,Northeast Louisiana nonmetropolitan area,30562.93033,53190,0.574599179
+Rural,2200006,Southwest Louisiana nonmetropolitan area,33486.38567,57580,0.5815627938
+Rural,2300001,Northeast Maine nonmetropolitan area,36071.89767,61490,0.5866303085
+Rural,2300002,Southwest Maine nonmetropolitan area,99344.90967,176780,0.5619691688
+Rural,2400006,Maryland nonmetropolitan area,28849.50467,49860,0.5786102019
+Rural,2500006,Massachusetts nonmetropolitan area,30461.00033,55120,0.5526306301
+Rural,2600001,Upper Peninsula of Michigan nonmetropolitan area,59472.17767,102220,0.5818056903
+Rural,2600002,Northeast Lower Peninsula of Michigan nonmetropolitan area,41581.93067,67690,0.6142994632
+Rural,2600003,Northwest Lower Peninsula of Michigan nonmetropolitan area,69109.05933,113630,0.608193781
+Rural,2600004,Balance of Lower Peninsula of Michigan nonmetropolitan area,153390.9933,252270,0.6080429434
+Rural,2700001,Northwest Minnesota nonmetropolitan area,104616.0937,177570,0.5891541007
+Rural,2700002,Northeast Minnesota nonmetropolitan area,21887.87067,36780,0.5951025195
+Rural,2700003,Southwest Minnesota nonmetropolitan area,66402.396,110190,0.6026172611
+Rural,2700004,Southeast Minnesota nonmetropolitan area,84887.02533,140930,0.6023346721
+Rural,2800001,Northeast Mississippi nonmetropolitan area,131311.0667,219300,0.5987736738
+Rural,2800002,Northwest Mississippi nonmetropolitan area,47611.84467,81710,0.5826929956
+Rural,2800003,Southeast Mississippi nonmetropolitan area,81537.17933,138330,0.5894395961
+Rural,2800004,Southwest Mississippi nonmetropolitan area,35109.365,60610,0.5792668702
+Rural,2900001,Central Missouri nonmetropolitan area,90361.82233,148440,0.6087430769
+Rural,2900002,North Missouri nonmetropolitan area,57250.14667,97320,0.5882670229
+Rural,2900003,Southeast Missouri nonmetropolitan area,84871.26833,141340,0.6004759327
+Rural,2900004,Southwest Missouri nonmetropolitan area,40632.497,65390,0.6213870164
+Rural,3000003,Southwest Montana nonmetropolitan area,77036.76167,136020,0.5663634882
+Rural,3000004,West Montana nonmetropolitan area,43494.47567,73570,0.5911985275
+Rural,3000006,East-Central Montana nonmetropolitan area,32704.69667,57860,0.5652384491
+Rural,3100001,Northwest Nebraska nonmetropolitan area,19487.574,33140,0.5880378395
+Rural,3100003,Northeast Nebraska nonmetropolitan area,51271.811,85520,0.5995300631
+Rural,3100006,South Nebraska nonmetropolitan area,82987.78,139610,0.5944257575
+Rural,3200006,Nevada nonmetropolitan area,53998.526,92080,0.5864305604
+Rural,3300001,Northern New Hampshire nonmetropolitan area,18562.23533,30840,0.6018883052
+Rural,3300002,Central New Hampshire nonmetropolitan area,46961.798,83960,0.559335374
+Rural,3300006,West Central-Southwest New Hampshire nonmetropolitan area,49404.09167,90730,0.5445177082
+Rural,3500006,Northern New Mexico nonmetropolitan area,36282.12833,63790,0.5687745467
+Rural,3500007,Eastern New Mexico nonmetropolitan area,88318.41333,147560,0.598525436
+Rural,3600001,Capital/Northern New York nonmetropolitan area,73625.56667,128720,0.5719823389
+Rural,3600004,Southwest New York nonmetropolitan area,92849.26667,160580,0.5782118985
+Rural,3600006,Central East New York nonmetropolitan area,83419.97533,145850,0.5719573214
+Rural,3700001,Southeast Coastal North Carolina nonmetropolitan area,139100.587,234150,0.5940661414
+Rural,3700002,Northeast Coastal North Carolina nonmetropolitan area,50864.75567,84800,0.5998202319
+Rural,3700003,Piedmont North Carolina nonmetropolitan area,141146.1833,241340,0.5848437198
+Rural,3700004,Mountain North Carolina nonmetropolitan area,69931.39333,118950,0.5879057867
+Rural,3800006,West North Dakota nonmetropolitan area,63355.51067,103320,0.6131969674
+Rural,3800007,East North Dakota nonmetropolitan area,33289.61033,55460,0.6002454081
+Rural,3900001,West Northwestern Ohio nonmetropolitan area,146744.5243,237220,0.6186009794
+Rural,3900002,North Northeastern Ohio nonmetropolitan area (noncontiguous),190578.6493,310900,0.6129901876
+Rural,3900003,Eastern Ohio nonmetropolitan area,73849.03233,122950,0.6006428006
+Rural,3900004,Southern Ohio nonmetropolitan area,83737.751,147260,0.5686388089
+Rural,4000001,Northeast Oklahoma nonmetropolitan area,62768.25867,108830,0.5767551104
+Rural,4000002,Northwest Oklahoma nonmetropolitan area,51525.632,86920,0.5927937414
+Rural,4000003,Southwest Oklahoma nonmetropolitan area,31739.61133,54270,0.5848463485
+Rural,4000004,Southeast Oklahoma nonmetropolitan area,93098.96367,158190,0.5885262258
+Rural,4100006,Coast Oregon nonmetropolitan area,63393.09633,103090,0.6149296375
+Rural,4100007,Central Oregon nonmetropolitan area,32975.92133,56200,0.5867601661
+Rural,4100008,Eastern Oregon nonmetropolitan area,38653.71333,63740,0.6064278841
+Rural,4200001,Western Pennsylvania nonmetropolitan area,77243.51,131870,0.585754986
+Rural,4200002,Northern Pennsylvania nonmetropolitan area,85769.06733,141770,0.6049874256
+Rural,4200003,Southern Pennsylvania nonmetropolitan area,107484.9233,175780,0.6114741343
+Rural,4500002,Upper Savannah South Carolina nonmetropolitan area,45452.44067,73520,0.6182323268
+Rural,4500004,Lower Savannah South Carolina nonmetropolitan area,29057.21867,47080,0.617188162
+Rural,4500006,Northeast South Carolina nonmetropolitan area,53045.60733,87300,0.6076243681
+Rural,4600002,East South Dakota nonmetropolitan area,77936.44633,124800,0.6244907559
+Rural,4600003,West South Dakota nonmetropolitan area,33961.241,56960,0.5962296524
+Rural,4700001,West Tennessee nonmetropolitan area,72945.71267,120900,0.6033557706
+Rural,4700002,South Central Tennessee nonmetropolitan area,62133.20867,100990,0.6152411988
+Rural,4700003,North Central Tennessee nonmetropolitan area,63336.90733,104290,0.6073152491
+Rural,4700004,East Tennessee nonmetropolitan area,83881.21733,130000,0.6452401333
+Rural,4800001,West Texas Region of Texas nonmetropolitan area,108144.8173,187400,0.5770801352
+Rural,4800002,North Texas Region of Texas nonmetropolitan area,154530.7587,263490,0.5864767493
+Rural,4800003,Big Thicket Region of Texas nonmetropolitan area,55889.91267,97870,0.5710627635
+Rural,4800004,Hill Country Region of Texas nonmetropolitan area,107987.7307,186120,0.5802048714
+Rural,4800005,Border Region of Texas nonmetropolitan area,28728.46833,51040,0.5628618404
+Rural,4800006,Coastal Plains Region of Texas nonmetropolitan area,75149.295,136300,0.5513521277
+Rural,4900006,Eastern Utah nonmetropolitan area,45419.434,77890,0.5831227885
+Rural,4900007,Central Utah nonmetropolitan area,28987.562,48980,0.591824459
+Rural,5000001,Southern Vermont nonmetropolitan area,49917.12233,90590,0.5510224344
+Rural,5000002,Northern Vermont nonmetropolitan area,32175.47,61090,0.5266896382
+Rural,5100001,Southwest Virginia nonmetropolitan area,63411.60767,108830,0.5826666146
+Rural,5100002,Southside Virginia nonmetropolitan area,52067.91367,91180,0.5710453352
+Rural,5100003,Northeast Virginia nonmetropolitan area,20581.836,40540,0.5076920572
+Rural,5100004,Northwest Virginia nonmetropolitan area,33888.317,57170,0.5927639846
+Rural,5300006,Western Washington nonmetropolitan area,71028.685,118430,0.5997524698
+Rural,5300007,Eastern Washington nonmetropolitan area,53575.35033,92380,0.5799453381
+Rural,5400001,Southern West Virginia nonmetropolitan area,35288.285,62160,0.5677008526
+Rural,5400002,Northern West Virginia nonmetropolitan area,72255.634,124790,0.5790178219
+Rural,5500001,Northwestern Wisconsin nonmetropolitan area,26415.584,42590,0.6202297253
+Rural,5500002,Northeastern Wisconsin nonmetropolitan area,112362.814,184170,0.6101037845
+Rural,5500003,South Central Wisconsin nonmetropolitan area,122779.6013,195660,0.627515084
+Rural,5500004,Western Wisconsin nonmetropolitan area,79273.053,128360,0.6175837722
+Rural,5600006,Western Wyoming nonmetropolitan area,51312.13,88440,0.5801914292
+Rural,5600007,Eastern Wyoming nonmetropolitan area,44889.72333,75790,0.5922908475
+Rural,6600001,Guam,28723.37467,47190,0.60867503
+Rural,7200006,Puerto Rico nonmetropolitan area,9207.103,14190,0.6488444679
+Rural,7800001,Virgin Islands,16051.18167,26020,0.616878619

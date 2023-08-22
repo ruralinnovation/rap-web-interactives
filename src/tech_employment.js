@@ -3,7 +3,6 @@ window.d3 = d3;
 
 
 import "./css/cori_styles.css";
-import "./style.css";
 import * as data from "./data/rural_cty_tech_employment.csv";
 import * as median_data from "./data/rural_median_cty_tech_employment.csv";
 
