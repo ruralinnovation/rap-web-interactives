@@ -56,6 +56,7 @@ function dodge(data, radius, padding, scale) {
 import "./css/cori_styles.css";
 import * as data from "./data/bls_automation_by_area.csv";
 import * as median_data from "./data/automation_median_dta.csv";
+import * as addAnnotation from "@camdenblatchly/easy-d3-annotate";
 
 let width = 500;
 let height = 320; // 280;
@@ -273,7 +274,7 @@ svg.append("g")
 		"transform",
 		"translate(0," + (height - margin.bottom + x_axis_buffer) + ")",
 	)
-	.call(d3.axisBottom(x).ticks(6, ",.1%").tickSizeInner(4).tickSizeOuter(0))
+	.call(d3.axisBottom(x).ticks(6, ",.0%").tickSizeInner(4).tickSizeOuter(0))
 	.call((g) => g.select(".domain").remove());
 
 // Add rural and nonrural labels
@@ -302,4 +303,21 @@ svg.append("text")
 	.text(
 		"Source: CORI Analysis of Frey and Osborne (2017), 2022 BLS estimates",
 	);
+
+let max_val = d3.max(median_data, d => +d.pct_at_risk);
+let max_median = d3.filter(median_data, d => +d.pct_at_risk === max_val);
+let annotation = {
+	note: "Median automation risk",
+	id: "median-anno",
+	data: [
+		{x: x(max_median[0].pct_at_risk), y: 20},
+		{x: x(.603), y: -5},
+		{x: x(0.68), y: 0}
+	],
+	width: 75,
+	height: 38,
+	line_start: "left"
+}
+
+svg.call(addAnnotation, annotation);
 

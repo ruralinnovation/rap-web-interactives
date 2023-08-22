@@ -163,7 +163,6 @@ svg.append("text")
 
 let max_val = d3.max(median_data, d => +d.share_tech);
 let max_median = d3.filter(median_data, d => +d.share_tech === max_val);
-console.log("max_median", max_median);
 let annotation = {
 	note: "Median tech employment",
 	id: "median-anno",
