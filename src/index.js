@@ -12,10 +12,7 @@ import * as addAnnotation from "@camdenblatchly/easy-d3-annotate";
 let width = 500;
 let height = 180;
 
-let margin = { top: 32.5, right: 30, bottom: 30, left: 170 };
-
-// let y = d3.scaleBand()
-//     .range([0, height]);
+let margin = { top: 32.5, right: 30, bottom: 30, left: 180 };
 
 let y = d3.scalePoint().rangeRound([margin.top, height - margin.bottom]);
 
@@ -61,13 +58,6 @@ chart_text
 	.attr("class", "chart-subtitle")
 	.text("By racial and ethnic community type");
 
-// // Add caption
-// chart_div
-//     .append("p")
-//     .attr("class", "caption")
-//     .style("width", "95%")
-//     .html("Source: 2021 ACS 5-year estimates");
-
 // create a tooltip
 var tooltip = d3
 	.select("#chart")
@@ -103,8 +93,8 @@ svg.selectAll(".dot")
 			.attr("fill-opacity", 0.25);
 
 		tooltip
-			.style("top", event.pageY - 65 + "px")
-			.style("left", event.pageX - 200 + "px")
+			.style("top", event.pageY - 75 + "px")
+			.style("left", event.pageX - 260 + "px")
 			.html(
 				"<p><b> " +
 					d["name_co"] +
@@ -112,9 +102,9 @@ svg.selectAll(".dot")
 					"<p>" +
 					number_format(+d.tech_employment_all_estimate) +
 					" tech jobs</p>" +
-					"<p>Tech jobs make up " +
+					"<p>Tech jobs make up <b>" +
 					percent_format(+d.share_tech) +
-					" of employment</p>",
+					"</b> of employment</p>",
 			);
 		return tooltip.style("display", "block");
 	})
@@ -168,7 +158,7 @@ svg.append("g")
 svg.append("text")
 	.attr("class", "caption")
 	.attr("x", 0 - margin.left)
-	.attr("y", height + margin.bottom - 10)
+	.attr("y", height + margin.bottom -5)
 	.text("Source: 2021 ACS 5-year estimates");
 
 
@@ -183,8 +173,8 @@ let annotation = {
 		{x: x(0.0105), y: -5},
 		{x: x(0.02), y: 0}
 	],
-	width: 90,
-	height: 34,
+	width: 75,
+	height: 28,
 	line_start: "left"
 }
 

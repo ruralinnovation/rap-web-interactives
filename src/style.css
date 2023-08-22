@@ -1,9 +1,14 @@
+body {
+	font-family: "TT Hoves", "Montserrat", "Helvetica", sans-serif;
+}
+
 #chart {
 	width: 90%;
 	margin: 0 auto;
 	border: 2px solid #d0d2ce;
 	border-radius: 5px;
-	padding: 10px;
+	padding: 10px 10px 5px 10px;
+	max-width: 1047px;
 }
 
 
@@ -13,4 +18,10 @@
 
 #chart #median-anno {
 	text-align: center;
+	font-family: "Bitter", sans-serif;
 }
+
+/*#median-anno foreignObject {
+	border: 1px solid gray;
+}
+*/
